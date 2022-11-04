@@ -1,0 +1,15 @@
+D:\Projetos\EntityRelationFKExample\EntityRelationFKExample.Application\bin\Debug\net5.0\EntityRelationFKExample.Application.deps.json
+D:\Projetos\EntityRelationFKExample\EntityRelationFKExample.Application\bin\Debug\net5.0\EntityRelationFKExample.Application.dll
+D:\Projetos\EntityRelationFKExample\EntityRelationFKExample.Application\bin\Debug\net5.0\EntityRelationFKExample.Application.pdb
+D:\Projetos\EntityRelationFKExample\EntityRelationFKExample.Application\bin\Debug\net5.0\EntityRelationFKExample.Domain.dll
+D:\Projetos\EntityRelationFKExample\EntityRelationFKExample.Application\bin\Debug\net5.0\EntityRelationFKExample.Domain.pdb
+D:\Projetos\EntityRelationFKExample\EntityRelationFKExample.Application\obj\Debug\net5.0\EntityRelationFKExample.Application.csproj.AssemblyReference.cache
+D:\Projetos\EntityRelationFKExample\EntityRelationFKExample.Application\obj\Debug\net5.0\EntityRelationFKExample.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\EntityRelationFKExample\EntityRelationFKExample.Application\obj\Debug\net5.0\EntityRelationFKExample.Application.AssemblyInfoInputs.cache
+D:\Projetos\EntityRelationFKExample\EntityRelationFKExample.Application\obj\Debug\net5.0\EntityRelationFKExample.Application.AssemblyInfo.cs
+D:\Projetos\EntityRelationFKExample\EntityRelationFKExample.Application\obj\Debug\net5.0\EntityRelationFKExample.Application.csproj.CoreCompileInputs.cache
+D:\Projetos\EntityRelationFKExample\EntityRelationFKExample.Application\obj\Debug\net5.0\EntityRelationFKExample.Application.csproj.CopyComplete
+D:\Projetos\EntityRelationFKExample\EntityRelationFKExample.Application\obj\Debug\net5.0\EntityRelationFKExample.Application.dll
+D:\Projetos\EntityRelationFKExample\EntityRelationFKExample.Application\obj\Debug\net5.0\refint\EntityRelationFKExample.Application.dll
+D:\Projetos\EntityRelationFKExample\EntityRelationFKExample.Application\obj\Debug\net5.0\EntityRelationFKExample.Application.pdb
+D:\Projetos\EntityRelationFKExample\EntityRelationFKExample.Application\obj\Debug\net5.0\ref\EntityRelationFKExample.Application.dll

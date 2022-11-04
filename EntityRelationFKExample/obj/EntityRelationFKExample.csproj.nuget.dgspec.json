@@ -1,0 +1,357 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projetos\\EntityRelationFKExample\\EntityRelationFKExample\\EntityRelationFKExample.csproj": {}
+  },
+  "projects": {
+    "D:\\Projetos\\EntityRelationFKExample\\EntityRelationFKExample.Application\\EntityRelationFKExample.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projetos\\EntityRelationFKExample\\EntityRelationFKExample.Application\\EntityRelationFKExample.Application.csproj",
+        "projectName": "EntityRelationFKExample.Application",
+        "projectPath": "D:\\Projetos\\EntityRelationFKExample\\EntityRelationFKExample.Application\\EntityRelationFKExample.Application.csproj",
+        "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\EntityRelationFKExample\\EntityRelationFKExample.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Programs\\Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Projetos\\EntityRelationFKExample\\EntityRelationFKExample.Domain\\EntityRelationFKExample.Domain.csproj": {
+                "projectPath": "D:\\Projetos\\EntityRelationFKExample\\EntityRelationFKExample.Domain\\EntityRelationFKExample.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projetos\\EntityRelationFKExample\\EntityRelationFKExample.Domain\\EntityRelationFKExample.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projetos\\EntityRelationFKExample\\EntityRelationFKExample.Domain\\EntityRelationFKExample.Domain.csproj",
+        "projectName": "EntityRelationFKExample.Domain",
+        "projectPath": "D:\\Projetos\\EntityRelationFKExample\\EntityRelationFKExample.Domain\\EntityRelationFKExample.Domain.csproj",
+        "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\EntityRelationFKExample\\EntityRelationFKExample.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Programs\\Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projetos\\EntityRelationFKExample\\EntityRelationFKExample.Infra.Data\\EntityRelationFKExample.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projetos\\EntityRelationFKExample\\EntityRelationFKExample.Infra.Data\\EntityRelationFKExample.Infra.Data.csproj",
+        "projectName": "EntityRelationFKExample.Infra.Data",
+        "projectPath": "D:\\Projetos\\EntityRelationFKExample\\EntityRelationFKExample.Infra.Data\\EntityRelationFKExample.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\EntityRelationFKExample\\EntityRelationFKExample.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Programs\\Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Projetos\\EntityRelationFKExample\\EntityRelationFKExample.Domain\\EntityRelationFKExample.Domain.csproj": {
+                "projectPath": "D:\\Projetos\\EntityRelationFKExample\\EntityRelationFKExample.Domain\\EntityRelationFKExample.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projetos\\EntityRelationFKExample\\EntityRelationFKExample.IoC\\EntityRelationFKExample.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projetos\\EntityRelationFKExample\\EntityRelationFKExample.IoC\\EntityRelationFKExample.IoC.csproj",
+        "projectName": "EntityRelationFKExample.IoC",
+        "projectPath": "D:\\Projetos\\EntityRelationFKExample\\EntityRelationFKExample.IoC\\EntityRelationFKExample.IoC.csproj",
+        "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\EntityRelationFKExample\\EntityRelationFKExample.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Programs\\Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Projetos\\EntityRelationFKExample\\EntityRelationFKExample.Application\\EntityRelationFKExample.Application.csproj": {
+                "projectPath": "D:\\Projetos\\EntityRelationFKExample\\EntityRelationFKExample.Application\\EntityRelationFKExample.Application.csproj"
+              },
+              "D:\\Projetos\\EntityRelationFKExample\\EntityRelationFKExample.Domain\\EntityRelationFKExample.Domain.csproj": {
+                "projectPath": "D:\\Projetos\\EntityRelationFKExample\\EntityRelationFKExample.Domain\\EntityRelationFKExample.Domain.csproj"
+              },
+              "D:\\Projetos\\EntityRelationFKExample\\EntityRelationFKExample.Infra.Data\\EntityRelationFKExample.Infra.Data.csproj": {
+                "projectPath": "D:\\Projetos\\EntityRelationFKExample\\EntityRelationFKExample.Infra.Data\\EntityRelationFKExample.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projetos\\EntityRelationFKExample\\EntityRelationFKExample\\EntityRelationFKExample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projetos\\EntityRelationFKExample\\EntityRelationFKExample\\EntityRelationFKExample.csproj",
+        "projectName": "EntityRelationFKExample",
+        "projectPath": "D:\\Projetos\\EntityRelationFKExample\\EntityRelationFKExample\\EntityRelationFKExample.csproj",
+        "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\EntityRelationFKExample\\EntityRelationFKExample\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Programs\\Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Projetos\\EntityRelationFKExample\\EntityRelationFKExample.IoC\\EntityRelationFKExample.IoC.csproj": {
+                "projectPath": "D:\\Projetos\\EntityRelationFKExample\\EntityRelationFKExample.IoC\\EntityRelationFKExample.IoC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

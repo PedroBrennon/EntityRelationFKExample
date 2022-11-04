@@ -1,0 +1,12 @@
+D:\Projetos\EntityRelationFKExample\EntityRelationFKExample.Domain\bin\Debug\net5.0\EntityRelationFKExample.Domain.deps.json
+D:\Projetos\EntityRelationFKExample\EntityRelationFKExample.Domain\bin\Debug\net5.0\EntityRelationFKExample.Domain.dll
+D:\Projetos\EntityRelationFKExample\EntityRelationFKExample.Domain\bin\Debug\net5.0\EntityRelationFKExample.Domain.pdb
+D:\Projetos\EntityRelationFKExample\EntityRelationFKExample.Domain\obj\Debug\net5.0\EntityRelationFKExample.Domain.csproj.AssemblyReference.cache
+D:\Projetos\EntityRelationFKExample\EntityRelationFKExample.Domain\obj\Debug\net5.0\EntityRelationFKExample.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\EntityRelationFKExample\EntityRelationFKExample.Domain\obj\Debug\net5.0\EntityRelationFKExample.Domain.AssemblyInfoInputs.cache
+D:\Projetos\EntityRelationFKExample\EntityRelationFKExample.Domain\obj\Debug\net5.0\EntityRelationFKExample.Domain.AssemblyInfo.cs
+D:\Projetos\EntityRelationFKExample\EntityRelationFKExample.Domain\obj\Debug\net5.0\EntityRelationFKExample.Domain.csproj.CoreCompileInputs.cache
+D:\Projetos\EntityRelationFKExample\EntityRelationFKExample.Domain\obj\Debug\net5.0\EntityRelationFKExample.Domain.dll
+D:\Projetos\EntityRelationFKExample\EntityRelationFKExample.Domain\obj\Debug\net5.0\refint\EntityRelationFKExample.Domain.dll
+D:\Projetos\EntityRelationFKExample\EntityRelationFKExample.Domain\obj\Debug\net5.0\EntityRelationFKExample.Domain.pdb
+D:\Projetos\EntityRelationFKExample\EntityRelationFKExample.Domain\obj\Debug\net5.0\ref\EntityRelationFKExample.Domain.dll

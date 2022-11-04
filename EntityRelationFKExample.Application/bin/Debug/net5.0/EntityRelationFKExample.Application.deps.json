@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EntityRelationFKExample.Application/1.0.0": {
+        "dependencies": {
+          "EntityRelationFKExample.Domain": "1.0.0"
+        },
+        "runtime": {
+          "EntityRelationFKExample.Application.dll": {}
+        }
+      },
+      "EntityRelationFKExample.Domain/1.0.0": {
+        "runtime": {
+          "EntityRelationFKExample.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EntityRelationFKExample.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntityRelationFKExample.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
